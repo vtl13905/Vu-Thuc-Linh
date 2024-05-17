@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1715943250 source:c:\co\checker.cpp
+	"Checker.h"
+
+1715245859 c:\co\checker.h
+	<vector>
+	<algorithm>
+	<SDL.h>
+	<SDL_image.h>
+	"TextureLoader.h"
+
+1715246200 c:\co\textureloader.h
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+
+1715929223 source:c:\co\textureloader.cpp
+	"TextureLoader.h"
+
+1715944251 source:c:\co\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"logic.h"
+	"def.h"
+	"graphics.h"
+
+1715264357 c:\co\game.h
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Checker.h"
+	"TextureLoader.h"
+
+1715943184 source:c:\co\game.cpp
+	"Game.h"
+
+1715908975 c:\co\def.h
+
+1715939909 c:\co\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"def.h"
+
+1715944222 c:\co\logic.h
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Checker.h"
+	"TextureLoader.h"
+
